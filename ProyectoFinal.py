@@ -36,7 +36,6 @@ def ingresarVenta():
     else:
         areaMatriz.insert(END, "\nINGRESO INVÁLIDO")
 
-
 def reporteTotalMes():
     mes= int(entradaNum.get().strip())
 
